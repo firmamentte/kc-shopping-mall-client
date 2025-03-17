@@ -1,6 +1,11 @@
 # kc-shopping-mall-client
 
-This template should help get you started developing with Vue 3 in Vite.
+Instruction to setup the app.
+
+Fork or Clone the app in VSCode.
+Update the app ecommerceAPIBaseAddressLocalHost in the (src/stores/shared.ts) file to point to the KCShoppingMallWebAPI app. 
+Make sure that the KCShoppingMallWebAPI app is up and running.
+Run the kc-shopping-mall-client app. (npm run dev)
 
 ## Recommended IDE Setup
 
