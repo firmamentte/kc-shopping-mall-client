@@ -2,10 +2,10 @@
 
 Instruction to setup the app.
 
-Fork or Clone the app in VSCode.
-Update the app ecommerceAPIBaseAddressLocalHost in the (src/stores/shared.ts) file to point to the KCShoppingMallWebAPI app. 
-Make sure that the KCShoppingMallWebAPI app is up and running.
-Run the kc-shopping-mall-client app. (npm run dev)
+1. Fork or Clone the app in VSCode.<br/>
+2. Update the app ecommerceAPIBaseAddressLocalHost in the (src/stores/shared.ts) file to point to the KCShoppingMallWebAPI app.<br/>
+3. Make sure that the KCShoppingMallWebAPI app is up and running.<br/>
+4. Run the kc-shopping-mall-client app. (npm run dev)
 
 ## Recommended IDE Setup
 
